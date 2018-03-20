@@ -1,0 +1,21 @@
+body{
+    background-color: #CDC6D2;
+}
+
+#rectangle{
+    width:600px;
+    height: 150px;
+    background-color: black;
+    align-content: center;
+    margin-left: 400px;
+    border-radius: 50px;
+    
+    
+}
+#question{
+    color: white;
+    font-family: monospace;
+    font-size:30px;
+    text-align: center;
+    
+}
